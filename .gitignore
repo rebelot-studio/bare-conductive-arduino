@@ -9,3 +9,15 @@
 /avr/bootloaders/caterina/Caterina.eep
 /avr/bootloaders/caterina/Caterina-BareTouch-old.hex
 /avr/bootloaders/caterina/.dep
+Icon*
+Icon?
+Icon\r
+.DS_Store
+.local/**
+.hintrc
+.vscode/
+_gsdata_
+node_modules/
+.npm/
+*.backup
+*.log
